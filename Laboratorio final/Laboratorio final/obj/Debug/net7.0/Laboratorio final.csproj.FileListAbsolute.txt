@@ -1,0 +1,42 @@
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Laboratorio final.exe
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Laboratorio final.deps.json
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Laboratorio final.runtimeconfig.json
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Laboratorio final.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Laboratorio final.pdb
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.AssemblyInfo.cs
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.csproj.CopyComplete
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\refint\Laboratorio final.dll
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.pdb
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\Laboratorio final.genruntimeconfig.cache
+C:\Users\gamer\source\repos\Laboratorio final\Laboratorio final\obj\Debug\net7.0\ref\Laboratorio final.dll
